@@ -22,6 +22,6 @@ I am ready to welcome responsibility and challenges, and also provide well-thoug
 
 #### Others
 
-<img src="https://github.com/dharanithedev/dharanithedev/blob/main/azure.png?raw=true" width="35" height="35"/> &nbsp; <img src="https://github.com/dharanithedev/dharanithedev/blob/main/scrapauto.png?raw=true" width="35" height="35"/> &nbsp; <img src="https://github.com/dharanithedev/dharanithedev/blob/main/git.png?raw=true" width="35" height="35"/>
+<img src="https://github.com/dharanithedev/dharanithedev/blob/main/azure.png?raw=true" width="40" height="35"/> &nbsp; <img src="https://github.com/dharanithedev/dharanithedev/blob/main/scrapauto.png?raw=true" width="40" height="40"/> &nbsp; <img src="https://github.com/dharanithedev/dharanithedev/blob/main/git.png?raw=true" width="40" height="40"/>
 
 
