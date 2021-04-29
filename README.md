@@ -10,7 +10,7 @@ I am ready to welcome responsibility and challenges, and also provide well-thoug
 
 ###### General
 
-<img src="" style="width="50px" /> , <img src="" style="width="50px"" /> 
+<img src="" style="" />
 
 
 
