@@ -6,10 +6,11 @@ A highly motivated and passionate programmer. I strongly believe in my skills to
 
 I am ready to welcome responsibility and challenges, and also provide well-thought-out solutions.
 
-#### Skills and Experience
+#### Skills
 
-###### Angular ![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg)
-###### Angular ![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg)
+###### General
+
+<img src="" style="" /> 
 
 
 
