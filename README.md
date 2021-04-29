@@ -22,7 +22,7 @@ I am ready to welcome responsibility and challenges, and also provide well-thoug
 
 ## Certifications
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D22AQHbpx1HyTys3w/feedshare-shrink_800/0/1591948825705?e=1622678400&v=beta&t=H0tFLtYF0Q9S-zN29VqCvqQfXgQ-NGCnLpwYcyUA_xI" width="220" height="300"> &nbsp; <img src="https://media-exp1.licdn.com/dms/image/C5122AQHOTwGv49CIkA/feedshare-shrink_2048_1536/0/1571297472402?e=1622678400&v=beta&t=X3i0ATa0RJ3Qj9Bh4NKTYcYtjDv8IY96tRAA9N0BcDg" width="220">
+<img src="https://media-exp1.licdn.com/dms/image/C4D22AQHbpx1HyTys3w/feedshare-shrink_800/0/1591948825705?e=1622678400&v=beta&t=H0tFLtYF0Q9S-zN29VqCvqQfXgQ-NGCnLpwYcyUA_xI" width="220" height="311"> &nbsp; <img src="https://media-exp1.licdn.com/dms/image/C5122AQHOTwGv49CIkA/feedshare-shrink_2048_1536/0/1571297472402?e=1622678400&v=beta&t=X3i0ATa0RJ3Qj9Bh4NKTYcYtjDv8IY96tRAA9N0BcDg" width="220">
 
 
 
