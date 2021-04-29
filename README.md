@@ -1,2 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dharanitharan Murugan</h1>
-<h3 align="center">Senior Software Engineer</h3>
+
+
+<h2>Hi 👋, I'm Dharanitharan Murugan</h1>
+<h3>Senior Software Engineer</h3>
