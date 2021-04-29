@@ -1,12 +1,12 @@
 ![](https://github.com/dharanithedev/dharanithedev/blob/main/banner-final.png?raw=true)
 
-## Dharanitharan Murugan
+# Dharanitharan Murugan
 
 A highly motivated and passionate programmer. I strongly believe in my skills to think innovatively and approach situations with a dynamic and energetic personality and dedicating a part of my time to enhancing my skills, as well as leveraging my passion for software engineering into different contexts.
 
 I am ready to welcome responsibility and challenges, and also provide well-thought-out solutions.
 
-### Technical skills
+## Technical skills
 
 #### General
 
@@ -19,6 +19,12 @@ I am ready to welcome responsibility and challenges, and also provide well-thoug
 #### Server, Database & Others
 
 <img src="https://github.com/dharanithedev/dharanithedev/blob/main/nod.jpeg?raw=true" width="35" height="30"/> &nbsp; <img src="https://github.com/dharanithedev/dharanithedev/blob/main/mg.png?raw=true" width="30" height="30"/> &nbsp; <img src="https://github.com/dharanithedev/dharanithedev/blob/main/postg.png?raw=true" width="30" height="30"/> &nbsp; <img src="https://github.com/dharanithedev/dharanithedev/blob/main/ag.png?raw=true" width="30" height="30"/> &nbsp; <img src="https://github.com/dharanithedev/dharanithedev/blob/main/azure.png?raw=true" width="35" height="35"/> &nbsp; <img src="https://github.com/dharanithedev/dharanithedev/blob/main/scrapauto.png?raw=true" width="35" height="35"/> &nbsp; <img src="https://github.com/dharanithedev/dharanithedev/blob/main/gitt.png?raw=true" width="30" height="30"/>
+
+## Certifications
+
+<img src="https://media-exp1.licdn.com/dms/image/C5122AQHOTwGv49CIkA/feedshare-shrink_2048_1536/0/1571297472402?e=1622678400&v=beta&t=X3i0ATa0RJ3Qj9Bh4NKTYcYtjDv8IY96tRAA9N0BcDg" width="220">
+
+
 
 
 
