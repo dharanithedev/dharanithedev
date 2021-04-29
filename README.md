@@ -6,7 +6,7 @@ A highly motivated and passionate programmer. I strongly believe in my skills to
 
 I am ready to welcome responsibility and challenges, and also provide well-thought-out solutions.
 
-### Technologies
+### Technical skills
 
 #### General
 
