@@ -1,4 +1,4 @@
-![](https://github.com/dharanithedev/dharanithedev/blob/main/ban.png?raw=true)
+![](https://github.com/dharanithedev/dharanithedev/blob/main/banner-final.png?raw=true)
 
 Hello there, I'm Dharanitharan Murugan...
 
