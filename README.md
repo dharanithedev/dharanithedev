@@ -6,14 +6,15 @@ A highly motivated and passionate programmer. I strongly believe in my skills to
 
 I am ready to welcome responsibility and challenges, and also provide well-thought-out solutions.
 
-#### Skills
+### Skills & Experience
 
-###### General
+##### General
 
 <img src="https://github.com/dharanithedev/dharanithedev/blob/main/html5.png?raw=true" width="30" height="30"/>  <img src="https://github.com/dharanithedev/dharanithedev/blob/main/css3.png?raw=true" width="30" height="30"/>  <img src="https://github.com/dharanithedev/dharanithedev/blob/main/javascript.png?raw=true" width="30" height="30"/>  <img src="https://github.com/dharanithedev/dharanithedev/blob/main/python.png?raw=true" width="35" height="35"/>
 
+##### Frameworks
 
-
+<img src="https://github.com/dharanithedev/dharanithedev/blob/main/angularjs.png?raw=true" width="30" height="30"/>  <img src="https://github.com/dharanithedev/dharanithedev/blob/main/python.png?raw=true" width="30" height="30"/>
 
 
 
