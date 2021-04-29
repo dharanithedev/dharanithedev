@@ -14,7 +14,7 @@ I am ready to welcome responsibility and challenges, and also provide well-thoug
 
 ##### Frameworks
 
-<img src="https://github.com/dharanithedev/dharanithedev/blob/main/angularjs.png?raw=true" width="30" height="30"/> &nbsp; <img src="https://github.com/dharanithedev/dharanithedev/blob/main/djang.png?raw=true" width="35" height="35"/>
+<img src="https://github.com/dharanithedev/dharanithedev/blob/main/angularjs.png?raw=true" width="35" height="35"/> &nbsp; <img src="https://github.com/dharanithedev/dharanithedev/blob/main/djang.png?raw=true" width="35" height="35"/>
 
 
 
