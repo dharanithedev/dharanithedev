@@ -10,7 +10,7 @@ I am ready to welcome responsibility and challenges, and also provide well-thoug
 
 ###### General
 
-<img src="https://github.com/dharanithedev/dharanithedev/blob/main/html5.png?raw=true" width="35" height="35"/> <img src="https://github.com/dharanithedev/dharanithedev/blob/main/css3.png?raw=true" width="35" height="35"/> <img src="https://github.com/dharanithedev/dharanithedev/blob/main/javascript.png?raw=true" width="35" height="35"/> <img src="https://github.com/dharanithedev/dharanithedev/blob/main/python.png?raw=true" width="35" height="35"/>
+<img src="https://github.com/dharanithedev/dharanithedev/blob/main/html5.png?raw=true" width="35" height="35"/>  <img src="https://github.com/dharanithedev/dharanithedev/blob/main/css3.png?raw=true" width="35" height="35"/>  <img src="https://github.com/dharanithedev/dharanithedev/blob/main/javascript.png?raw=true" width="35" height="35"/>  <img src="https://github.com/dharanithedev/dharanithedev/blob/main/python.png?raw=true" width="40" height="40"/>
 
 
 
