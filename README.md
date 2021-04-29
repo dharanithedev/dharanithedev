@@ -10,7 +10,7 @@ I am ready to welcome responsibility and challenges, and also provide well-thoug
 
 ###### General
 
-<img src="https://github.com/dharanithedev/dharanithedev/blob/main/html5.png?raw=true" style="max-width: 35px !important;" />
+<img src="https://github.com/dharanithedev/dharanithedev/blob/main/html5.png?raw=true" width="35" height="35" />
 
 
 
