@@ -27,4 +27,4 @@ I am ready to welcome responsibility and challenges, and also provide well-thoug
 
 ## Business Travel
 
-<img src="https://github.com/dharanithedev/dharanithedev/blob/main/Screenshot%202021-04-30%20at%208.21.46%20PM.png?raw=true" height="230">
+<img src="https://github.com/dharanithedev/dharanithedev/blob/main/Screenshot%202021-04-30%20at%208.21.46%20PM.png?raw=true" height="300">
