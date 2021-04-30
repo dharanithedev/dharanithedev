@@ -27,8 +27,6 @@ I am ready to welcome responsibility and challenges, and also provide well-thoug
 
 ## Business Travel
 
-<div>
- <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d32468661.97519662!2d45.66563804474159!3d4.239305812815243!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x30635ff06b92b791%3A0xd78c4fa1854213a6!2sIndia!3m2!1d20.593684!2d78.96288!4m5!1s0x1e950c68f0406a51%3A0x238ac9d9b1d34041!2sJohannesburg%2C%20South%20Africa!3m2!1d-26.204102799999998!2d28.0473051!5e1!3m2!1sen!2sin!4v1619795199858!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-</div>
+ <img src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d32468661.97519662!2d45.66563804474159!3d4.239305812815243!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x30635ff06b92b791%3A0xd78c4fa1854213a6!2sIndia!3m2!1d20.593684!2d78.96288!4m5!1s0x1e950c68f0406a51%3A0x238ac9d9b1d34041!2sJohannesburg%2C%20South%20Africa!3m2!1d-26.204102799999998!2d28.0473051!5e1!3m2!1sen!2sin!4v1619795199858!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" />
 
 
