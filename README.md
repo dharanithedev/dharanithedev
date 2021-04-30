@@ -27,6 +27,8 @@ I am ready to welcome responsibility and challenges, and also provide well-thoug
 
 ### Official travel - Outside India
 
+I voyaged to South Africa for the client project to collaborate and perform with on-site tech experts & various businesses.
+
 <a href="https://goo.gl/maps/kNnu8cbzC2H96KLPA">
  <img src="https://github.com/dharanithedev/dharanithedev/blob/main/download.png?raw=true" height="50">
 </a>
