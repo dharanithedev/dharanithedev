@@ -28,5 +28,5 @@ I am ready to welcome responsibility and challenges, and also provide well-thoug
 ## Official travel - Outside India
 
 <a href="https://goo.gl/maps/kNnu8cbzC2H96KLPA">
- <img src="https://github.com/dharanithedev/dharanithedev/blob/main/download.png?raw=true" height="180">
+ <img src="https://github.com/dharanithedev/dharanithedev/blob/main/download.png?raw=true" height="130">
 </a>
