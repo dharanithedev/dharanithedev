@@ -26,7 +26,7 @@ I am ready to welcome responsibility and challenges, and also provide well-thoug
 
 
 ### Onsite Travel
-<hr>
+<hr style="margin: -10px 0px 10px 0px;height: 2px;">
 
 I voyaged to South Africa for the client project to collaborate and perform with on-site tech experts & various businesses.
 
