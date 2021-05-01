@@ -1,4 +1,4 @@
-![](https://github.com/dharanithedev/dharanithedev/blob/main/banner-final.png?raw=true)
+
 
 # Dharanitharan Murugan
 
