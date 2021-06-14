@@ -24,8 +24,9 @@ I am ready to welcome responsibility and challenges, and also provide well-thoug
 ### Certifications
 <hr>
 
-<img src="https://github.com/dharanithedev/dharanithedev/blob/main/azure.jfif?raw=true" height="150"> &nbsp; 
 <img src="https://github.com/dharanithedev/dharanithedev/blob/main/nc.jpg?raw=true" height="150">
+<img src="https://github.com/dharanithedev/dharanithedev/blob/main/azure.jfif?raw=true" height="150"> &nbsp; 
+
 
 ### Onsite Travel
 <hr>
